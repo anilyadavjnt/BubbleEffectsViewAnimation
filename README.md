@@ -35,15 +35,14 @@ This project demonstrates creative UI development, animation techniques, and int
 
 ## 👨‍💻 Developer
 
-**Anil Kumar Yadav**
+**Anil Kumar Yadav**  
+iOS Developer
 
-iOS Developer | Swift | SwiftUI | UIKit
-
+- Gmail: anilyadavjnt@gmail.com
 - GitHub: https://github.com/anilyadavjnt
 - LinkedIn: https://linkedin.com/in/anilyadavjnt
+- Portfolio: https://portfolio-anilyadavjnt.vercel.app
 
 ---
 
-⭐ If you like this project, don't forget to star the repository!
-
-
+If you find this project useful, feel free to explore the code and share feedback.
