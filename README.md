@@ -1,5 +1,3 @@
-
-
 # 🫧 BubbleEffectsViewAnimation – iOS App
 
 An interactive iOS application built using **SwiftUI**, featuring beautiful bubble effects and smooth animations.
