@@ -1,3 +1,4 @@
+<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 14 Pro - 2026-10-30 at 20 28 23" src="https://github.com/user-attachments/assets/2530c13f-000f-4285-8368-dbb902171bd5" />
 # 🫧 BubbleEffectsViewAnimation – iOS App
 
 An interactive iOS application built using **SwiftUI**, featuring beautiful bubble effects and smooth animations.
@@ -22,10 +23,7 @@ This project demonstrates creative UI development, animation techniques, and int
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="Screenshots/screenshot1.png" width="250" alt="App Screenshot 1"/>
-  <img src="Screenshots/screenshot2.png" width="250" alt="App Screenshot 2"/>
-</p>
+
 
 ## 🚀 Getting Started
 
