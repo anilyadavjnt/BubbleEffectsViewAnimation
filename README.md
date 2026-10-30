@@ -23,7 +23,7 @@ This project demonstrates creative UI development, animation techniques, and int
 
 ## 📸 Screenshots
 
-<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 14 Pro - 2026-10-30 at 20 28 23" src="https://github.com/user-attachments/assets/2530c13f-000f-4285-8368-dbb902171bd5" />
+<img width="300" height="500" alt="Simulator Screenshot - iPhone 14 Pro - 2026-10-30 at 20 28 23" src="https://github.com/user-attachments/assets/2530c13f-000f-4285-8368-dbb902171bd5" />
 
 
 
